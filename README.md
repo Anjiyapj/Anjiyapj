@@ -36,7 +36,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjiyapj&show_icons=true&locale=en" alt="anjiyapj" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjiyapj&" alt="anjiyapj" /></p>## Hi there 👋
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjiyapj&" alt="anjiyapj" /></p>
 
 <!--
 **Anjiyapj/Anjiyapj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
